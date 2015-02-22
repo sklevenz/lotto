@@ -1,0 +1,89 @@
+INFO 2015/02/21 12:13:45 logger.go:17: init
+INFO 2015/02/21 12:14:27 logger.go:17: logger initialized
+INFO 2015/02/21 12:15:49 logger.go:17: logger initialized
+INFO 2015/02/21 12:15:49 logger.go:18: fatal
+INFO 2015/02/21 12:16:07 logger.go:17: logger initialized
+INFO 2015/02/21 12:16:07 logger.go:18: fatal
+INFO 2015/02/21 12:16:24 logger.go:17: logger initialized
+INFO 2015/02/21 12:16:40 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:19:42 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:19:42 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:19:42 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:28:32 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:28:32 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:28:32 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:30:22 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:30:22 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:30:22 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:32:01 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:32:01 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:32:01 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:32:16 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:32:16 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:32:16 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:33:43 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:33:43 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:33:43 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:33:57 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:33:57 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:33:57 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:34:00 logger.go:20: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:34:00 config.go:36: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:34:00 logger.go:20: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:34:21 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:34:21 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:34:21 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:35:02 logger.go:20: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:35:02 config.go:36: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:35:02 logger.go:20: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:05 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:05 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:36:05 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:09 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:09 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:36:09 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:20 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:20 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:36:20 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:26 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:26 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:36:26 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:34 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:36:34 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:36:34 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:11 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:11 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:38:11 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:30 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:30 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:38:30 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:54 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:54 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 12:38:54 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:54 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 12:38:54 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 13:51:45 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 13:51:45 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 13:51:45 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 13:51:45 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 13:51:45 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 13:54:25 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 13:54:25 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:01:43 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:01:43 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:01:43 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:01:43 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:01:48 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:01:48 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:02:24 logger.go:16: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:02:24 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:02:24 logger.go:16: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:02:24 logger.go:16: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:02:24 config.go:29: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:11:00 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:11:00 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:11:00 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:11:22 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:11:22 config.go:31: Config loaded:  {localhost:8080 10 600 public}
+INFO 2015/02/21 14:11:22 logger.go:17: -- logger initialized ----------------------------------------
+INFO 2015/02/21 14:12:31 logger.go:17: -- logger initialized ----------------------------------------

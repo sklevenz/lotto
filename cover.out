@@ -1,0 +1,10 @@
+mode: set
+github.com/sklevenz/lotto/logger.go:10.19,12.16 2 1
+github.com/sklevenz/lotto/logger.go:15.2,17.82 2 1
+github.com/sklevenz/lotto/logger.go:12.16,14.3 1 0
+github.com/sklevenz/lotto/main.go:8.13,12.2 2 0
+github.com/sklevenz/lotto/config.go:17.19,21.16 3 1
+github.com/sklevenz/lotto/config.go:24.2,27.16 4 1
+github.com/sklevenz/lotto/config.go:31.2,31.43 1 1
+github.com/sklevenz/lotto/config.go:21.16,23.3 1 0
+github.com/sklevenz/lotto/config.go:27.16,29.3 1 0

@@ -1,0 +1,7 @@
+{
+	"Address" 		: "localhost:8080",
+	"ReadTimeout" 	: 100,
+	"WriteTimeout" 	: 600,
+	"Static" 		: "public",
+	"Version" 		: "0.1"
+}
