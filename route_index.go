@@ -10,10 +10,10 @@ import (
 
 func index(writer http.ResponseWriter, request *http.Request) {
 
-	x := requestRandom()
+	rand := requestRandom()
 
 	templates := template.Must(template.ParseFiles("template/index.html"))
-	err := templates.Execute(writer, x)
+	err := templates.Execute(writer, rand)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -37,16 +37,16 @@ func requestRandom() []interface{} {
 	var msg interface{}
 	decoder := json.NewDecoder(resp.Body)
 	decoder.Decode(&msg)
-	log.Println(msg)
+	//	log.Println(msg)
 
 	m := msg.(map[string]interface{})
 	mm := m["result"].(map[string]interface{})
 	mmm := mm["random"].(map[string]interface{})
 	d := mmm["data"].([]interface{})
 
-	log.Println(m)
-	log.Println(mm)
-	log.Println(mmm)
+	//	log.Println(m)
+	//	log.Println(mm)
+	//	log.Println(mmm)
 	log.Println(d)
 
 	return d
